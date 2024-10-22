@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Trang chủ của admin ádadad
+	Trang chủ của admin ádadad final
 </body>
 </html>
